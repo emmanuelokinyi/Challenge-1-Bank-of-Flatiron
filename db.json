@@ -83,6 +83,28 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-04-17",
+      "category": "movies",
+      "description": "entertainment",
+      "amount": "1320",
+      "id": 13
+    },
+    {
+      "date": "2024-04-10",
+      "category": "Groceries ",
+      "description": "food",
+      "amount": "500",
+      "id": 14
+    },
+    {
+      "date": "2024-04-10",
+      "category": "Debt",
+      "description": "Paying Sam",
+      "amount": "2500",
+      "id": 15
     }
+    
   ]
 }
